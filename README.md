@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JDNorman
+- 👋 Hi, I’m @JDNorman, John David Norman!
 - 👀 I’m interested in robotics, fencing, writing music, and aerospace engineering.
-- 🌱 I’m currently taking Brit Lit., Modernity (really it's just philosophy), College Algebra, and Rhetoric & Ethics II in High School.
-- 💞️ I’m looking to collaborate on music, video games... but not yet.
-- 📫 How to reach me ... don't for now, i'm still in school.
+- 🌱 I’m currently taking Cal A, Gen Chem, and German, and I'm also in Chem Lab.
+- 💞️ I’m looking to collaborate on creating GX Opera Mods and music. I am just now starting with GX Opera Mods and so if anyone wants to help me feel free to reach out!
+- 📫 How to reach me: email me at dnorman1611@gmail.com! I will respond and you will be invited to my GX Opera Repo.
 
 <!---
 JDNorman/JDNorman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
